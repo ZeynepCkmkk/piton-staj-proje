@@ -48,3 +48,6 @@ reports/
 ## Notlar
 - Check Box ve Web Tables testleri demoqa.com sitesindeki reklam engelinden dolayı skip edilmiştir.
 - Testler yalnızca Chromium tarayıcısında çalıştırılmıştır.
+
+  ## Video Kaydı
+[Ekran kayıtları için tıklayın](https://drive.google.com/drive/folders/1F0pb4lmyDCuHAEdKn-FlQt82XKl_RwhD?usp=drive_link)
